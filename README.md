@@ -49,7 +49,7 @@ I aim to write **clean, readable code**, understand the **“why”** behind eve
 
 **Tools:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,linux" alt="PyCharm, Visual Studio, VS Code/>
+  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,linux" alt="PyCharm, Visual Studio, VS Code"/>
 </p>
 
 **Core Competencies:**
