@@ -20,19 +20,19 @@
 
 ## 🌟 About Me
 Hey! I’m **Velea Petru-Silviu**, a student at the Technical University of Cluj-Napoca.  
-I love exploring how systems work, transforming ideas into code, and constantly improving my skills through practical projects.
+I enjoy exploring how systems work, turning ideas into working code, and improving my skills through hands-on projects.
 
-Right now, my programming journey focuses on **two complementary sides**:
+My programming journey currently focuses on **two complementary sides**:
 
-- **Python:** Practical, fast development for automation, scripting, data handling, and diving into **Machine Learning & AI**.  
-- **C++:** Deep understanding of **pointers, lists, binary trees, hashmaps, backtracking, and data structures** — building strong algorithmic thinking and problem-solving skills.  
+- **Python:** Practical scripting, automation, data handling, and diving into **Machine Learning & AI**.  
+- **C++:** Deep understanding of **pointers, lists, binary trees, hashmaps, backtracking, and algorithms**, building strong problem-solving skills.  
 
-I aim to write **clean, readable code**, understand the **“why”** behind every implementation, and always challenge myself to learn something new.
+I strive to write **clean, readable code** while understanding the **“why”** behind implementations.
 
 ---
 
 ## 🐍 Current Focus
-### Strengthening the Codebase & Skills
+### Strengthening Skills
 | Focus Area | Goals & Application |
 |------------|------------------|
 | **Python** | Automation, Scripting, Data Handling, Small Tools, **Machine Learning & AI** |
@@ -49,13 +49,13 @@ I aim to write **clean, readable code**, understand the **“why”** behind eve
 
 **Tools:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,linux" alt="PyCharm, Visual Studio, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode" alt="PyCharm, Visual Studio, VS Code"/>
 </p>
 
 **Core Competencies:**
-- Logical and structured problem-solving
-- Efficient algorithm design
-- Learning fast and improving step by step
+- Logical and structured problem-solving  
+- Efficient algorithm design  
+- Learning fast and improving step by step  
 - Applying data structures and algorithms in real projects
 
 ---
@@ -63,13 +63,13 @@ I aim to write **clean, readable code**, understand the **“why”** behind eve
 ## 💡 Projects & University Work
 
 ### 📘 C++ Data Structures & Algorithms
-Currently exploring and implementing **pointers, lists, binary trees, hashmaps, and backtracking**.  
-These projects are helping me strengthen my understanding of memory management, algorithms, and efficient problem-solving.
+Implementing and exploring **pointers, lists, binary trees, hashmaps, and backtracking**.  
+These projects enhance my understanding of memory management, algorithms, and problem-solving skills.
 
 ---
 
 ### 📘 Python Automation & ML Experiments
-Building small tools and scripts while gradually experimenting with **Machine Learning projects**: data preprocessing, predictive modeling, and basic AI workflows.
+Building scripts and small tools while experimenting with **Machine Learning projects**: data preprocessing, predictive modeling, and basic AI workflows.
 
 ---
 
@@ -78,12 +78,12 @@ Building small tools and scripts while gradually experimenting with **Machine Le
 **Program:** Automation & Applied Informatics  
 **Duration:** 2024 — Present  
 
-A combination of engineering, programming, mathematics, and problem-solving — a perfect fit for my curiosity and drive.
+A mix of engineering, programming, mathematics, and problem-solving — perfectly aligned with my curiosity and drive.
 
 ---
 
 ## 📬 Let’s Connect
-Always open to collaboration, networking, or talking about code, AI, and tech!
+Open to collaboration, networking, or discussing code, AI, and tech!
 
 - **Email:** [velea.petre@gmail.com](mailto:velea.petre@gmail.com)  
 - **LinkedIn:** [Velea Petru-Silviu](https://www.linkedin.com/in/velea-petru-silviu/)  
